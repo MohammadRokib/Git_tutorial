@@ -1,2 +1,3 @@
 console.log('hey there');
-colsole.log('feature-1');
+console.log('feature-1');
+console.log('feature-2');
